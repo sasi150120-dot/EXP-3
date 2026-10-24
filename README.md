@@ -38,13 +38,21 @@ switch2.
 •  Screw the accessories on the board and switch on the supply.
 •  Circuit is tested for all possible combination of switch positions.
 
-
-Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
-	
-Cross connection: CIRCUIT DIAGRAM:
-
-Tabulation:2
+CIRCUIT DIAGRAM: 
+Direct connection: 
+<img width="1246" height="552" alt="Screenshot 2026-10-24 175904" src="https://github.com/user-attachments/assets/8d229c9e-b1dd-473a-a4f6-f80532cc48b7" />
+Cross connection: 
+<img width="1230" height="552" alt="Screenshot 2026-10-24 175924" src="https://github.com/user-attachments/assets/7e864598-6f43-4e02-9369-924e6d7d99ce" />
+STIMULATION RESULT:
+direct connection-lamp glowing:
+<img width="1262" height="562" alt="Screenshot 2026-10-24 175943" src="https://github.com/user-attachments/assets/f93a0016-2c35-4184-89c7-bcca7b8c0a77" />
+cross connection-lamp glowing:
+<img width="830" height="396" alt="Screenshot 2026-10-24 180004" src="https://github.com/user-attachments/assets/35c3ee78-e325-496d-8dc1-eebca19f302b" />
+TABULATION:
+TABULATION 1:DIRECT CONNECTION:
+<img width="621" height="230" alt="Screenshot 2026-10-24 180047" src="https://github.com/user-attachments/assets/ae271e15-f2d7-4b37-9fc7-d6b44a6edc7e" />
+TABULATION 2:CROSS CONNECTION:
+<img width="610" height="227" alt="Screenshot 2026-10-24 180057" src="https://github.com/user-attachments/assets/74d6d2e9-1904-411c-8ebc-42b11576e75c" />
 
 RESULT:
 Thus the staircase wiring is connected and tested.
